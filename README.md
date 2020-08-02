@@ -11,7 +11,9 @@ YBIGTA 홍보용 카카오톡 챗봇 심심한 와빅이 입니다!
 - 서버: AWS, Django framework 이용
 
 ## 발표자료
+
 [발표자료](https://github.com/ksyu0508/ybigta_chatbot/blob/master/%EC%8B%AC%EC%8B%AC%ED%95%9C%20%EC%99%80%EB%B9%85%EC%9D%B4(%EC%B5%9C%EC%A2%85).pdf)
+
 [발표영상](https://www.youtube.com/watch?v=HolUf6CVwAw&t=8s)
 
 ## 실행 예시
