@@ -4,6 +4,7 @@
 
 16기 YBIGTA 컨퍼런스
 YBIGTA 홍보용 카카오톡 챗봇 심심한 와빅이 입니다!
+※ 크레딧 문제로 현재 딥러닝 모델 기반 답변은 불가합니다!
 
 - 학습환경: Google Colaboratory
 - 서버: AWS, Django framework 이용
