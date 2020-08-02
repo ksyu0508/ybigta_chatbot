@@ -1,2 +1,3 @@
-# ybigta_chatbot
-심심한 와빅이
+# 심심한 와빅이
+
+[](https://www.youtube.com/watch?v=HolUf6CVwAw&t=8s)
